@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Simron Bhuyan</h1>
-https://cdn.dribbble.com/users/537078/screenshots/15044182/media/9a96bd6d3ae3545624f212eebd995b72.gif
+<p><img align="center" src="https://cdn.dribbble.com/users/537078/screenshots/15044182/media/9a96bd6d3ae3545624f212eebd995b72.gif" alt="simron-bhuyan" /></p>
+
 <h3 align="center">A passionate frontend developer and an enthusiast Machine learner</h3>
 
 
