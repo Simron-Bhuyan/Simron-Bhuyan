@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img align="center" size="100vw" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="simron-bhuyan" />, I'm Simron Bhuyan</h1>
-<p><img align="center" border-radius="25%" src="https://cdn.dribbble.com/users/537078/screenshots/15044182/media/9a96bd6d3ae3545624f212eebd995b72.gif" alt="simron-bhuyan" /></p>
+<p><img align="center" src="https://cdn.dribbble.com/users/77121/screenshots/11529334/media/7e578f6a1a7968b0f8174c3632d2e5ed.gif" alt="simron-bhuyan" /></p>
 
 <h3 align="center">A passionate frontend developer and an enthusiast Machine learner</h3>
 
