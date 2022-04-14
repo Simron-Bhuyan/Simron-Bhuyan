@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img align="center" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="simron-bhuyan" width="80" />, I'm Simron Bhuyan</h1>
 <p><img align="center" src="https://cdn.dribbble.com/users/77121/screenshots/11529334/media/7e578f6a1a7968b0f8174c3632d2e5ed.gif" alt="simron-bhuyan" /></p>
 
-<h3 align="center">A passionate frontend developer and an enthusiast Machine learner</h3>
+<h3 align="center">A passionate frontend developer and a learner who wants to learn everything!</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simron-bhuyan&label=Profile%20views&color=0e75b6&style=flat" alt="simron-bhuyan" /> </p>
