@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Using redux with reactjs**
+- 🌱 I’m currently learning **Using redux with reactjs and integration and hosting using firebase**
 
 - 💬 Ask me about **C++ ,C ,python ,HTML ,CSS**
 
