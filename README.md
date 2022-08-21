@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Using redux with reactjs and integration and hosting using firebase**
+- 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **C++ ,C ,python ,HTML ,CSS**
+- 💬 Ask me about **C++ ,C ,python ,HTML ,CSS , Reactjs** 
 
 - 📫 How to reach me **simron0707@gmail.com**
 
