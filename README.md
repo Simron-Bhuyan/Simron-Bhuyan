@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/simron-bhuyan-856b73205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simron-bhuyan-856b73205" height="30" width="40" /></a>
 <a href="https://instagram.com/simronbhuyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simronbhuyan" height="30" width="40" /></a>
+<a href="https://simron-bhuyan.netlify.app/" target="blank"><h2>MY PORTFOLIO</h2></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
