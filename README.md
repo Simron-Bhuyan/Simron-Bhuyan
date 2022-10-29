@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **C++ ,C ,python ,HTML ,CSS , Reactjs** 
+- 💬 Ask me about **C++ ,C ,python ,HTML ,CSS , Reactjs** ,NextJs**
 
 - 📫 How to reach me **simron0707@gmail.com**
 
