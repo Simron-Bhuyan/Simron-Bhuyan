@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **simron0707@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16siRp6RKGfFjJ4ZJh-EGbC8nBXngrUVQ/view?usp=sharing](https://drive.google.com/file/d/16siRp6RKGfFjJ4ZJh-EGbC8nBXngrUVQ/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/16siRp6RKGfFjJ4ZJh-EGbC8nBXngrUVQ/view?usp=sharing](https://drive.google.com/file/d/16siRp6RKGfFjJ4ZJh-EGbC8nBXngrUVQ/view?usp=sharing)](https://drive.google.com/file/d/1lw0KhswJ4f3AbBm1tQjcHwtk8mAlb04i/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
